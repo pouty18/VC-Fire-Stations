@@ -1,0 +1,204 @@
+{ "data" :
+[ {
+"name" : "Ventura County Station 20",
+"imageUrl" : "http://vcfd.org/images/Stations/S-20-summit.jpg",
+"latitude": "34.4363",
+"longitude" : "-119.1351"
+},
+{
+"name" : "Ventura County Station 21",
+"imageUrl" : "http://vcfd.org/images/Stations/S-21-ojai.jpg",
+"latitude": "34.4484",
+"longitude" : "-119.2310"
+},
+{
+"name" : "Ventura County Station 22",
+"imageUrl" : "http://vcfd.org/images/Stations/S-22-meiners_oaks.jpg",
+"latitude": "34.4444",
+"longitude" : "-119.2854"
+},
+{
+"name" : "Ventura County Station 23",
+"imageUrl" : "http://vcfd.org/images/Stations/S-23-oak_view.jpg",
+"latitude": "34.3947",
+"longitude" : "-119.3015"
+},
+{
+"name" : "Ventura County Station 25",
+"imageUrl" : "http://vcfd.org/images/Stations/S-25-rincon.jpg",
+"latitude": "34.3456",
+"longitude" : "-119.4196"
+},
+{
+"name" : "Ventura County Station 26",
+"imageUrl" : "http://vcfd.org/images/Stations/Station-26-SantaPaula.png",
+"latitude": "34.3115",
+"longitude" : "-119.1341"
+},
+{
+"name" : "Ventura County Station 27",
+"imageUrl" : "http://vcfd.org/images/Stations/S-27-Filmore.jpg",
+"latitude": "34.4030",
+"longitude" : "-119.9268"
+},
+{
+"name" : "Ventura County Station 28",
+"imageUrl" : "http://vcfd.org/images/Stations/S-28-Piru.jpg",
+"latitude": "34.4134",
+"longitude" : "-118.7964"
+},
+{
+"name" : "Ventura County Station 29",
+"imageUrl" : "http://vcfd.org/images/Stations/Station-29.png",
+"latitude": "34.3533",
+"longitude" : "-119.0599"
+},
+{
+"name" : "Ventura County Station 30",
+"imageUrl" : "http://vcfd.org/images/Stations/S-30-Civic_Center.jpg",
+"latitude": "34.1849",
+"longitude" : "-118.8852"
+},
+{
+"name" : "Ventura County Station 31",
+"imageUrl" : "http://vcfd.org/images/Stations/S-31-Westlake.jpg",
+"latitude": "34.1710",
+"longitude" : "-118.8328"
+},
+{
+"name" : "Ventura County Station 32",
+"imageUrl" : "http://vcfd.org/images/Stations/S-32-potrero.jpg",
+"latitude": "34.1627",
+"longitude" : "-118.9564"
+},
+{
+"name" : "Ventura County Station 33",
+"imageUrl" : "http://vcfd.org/images/Stations/S-33-Lake_Sherwood.jpg",
+"latitude": "34.1407",
+"longitude" : "-118.8762"
+},
+{
+"name" : "Ventura County Station 34",
+"imageUrl" : "http://vcfd.org/images/Stations/S-34-Arboles.jpg",
+"latitude": "34.2183",
+"longitude" : "-118.8679"
+},
+{
+"name" : "Ventura County Station 35",
+"imageUrl" : "http://vcfd.org/images/Stations/S-35-2017-crop.jpg",
+"latitude": "34.188576",
+"longitude" : "-118.926862"
+},
+{
+"name" : "Ventura County Station 36",
+"imageUrl" : "http://vcfd.org/images/Stations/S-36-Oak_Park.jpg",
+"latitude": "34.1811",
+"longitude" : "-118.7610"
+},
+{
+"name" : "Ventura County Station 37",
+"imageUrl" : "http://vcfd.org/images/Stations/S-37-North_Ranch.jpg",
+"latitude": "34.1996",
+"longitude" : "-118.8200"
+},
+{
+"name" : "Ventura County Station 40",
+"imageUrl" : "http://vcfd.org/images/Stations/S-40-Mountain_Meadows.jpg",
+"latitude": "34.2664",
+"longitude" : "-118.8986"
+},
+{
+"name" : "Ventura County Station 41",
+"imageUrl" : "http://vcfd.org/images/Stations/S-41-Simi_Valley.jpg",
+"latitude": "34.2710",
+"longitude" : "-118.7362"
+},
+{
+"name" : "Ventura County Station 42",
+"imageUrl" : "http://vcfd.org/images/S-42-Moorpark.jpg",
+"latitude": "34.2857",
+"longitude" : "-118.8780"
+},
+{
+"name" : "Ventura County Station 43",
+"imageUrl" : "http://vcfd.org/images/S-43-Yosemite.jpg",
+"latitude": "34.2712",
+"longitude" : "-118.6768"
+},
+{
+"name" : "Ventura County Station 44",
+"imageUrl" : "http://vcfd.org/images/Stations/S-44-Wood_Ranch.jpg",
+"latitude": "34.2505",
+"longitude" : "-118.8220"
+},
+{
+"name" : "Ventura County Station 45",
+"imageUrl" : "http://vcfd.org/images/Stations/S-45-West_Simi.jpg",
+"latitude": "34.2694",
+"longitude" : "-118.7830"
+},
+{
+"name" : "Ventura County Station 46",
+"imageUrl" : "http://vcfd.org/images/Stations/S-46-Tapo.jpg",
+"latitude": "34.2945",
+"longitude" : "-118.7093"
+},
+{
+"name" : "Ventura County Station 47",
+"imageUrl" : "http://vcfd.org/images/Stations/S-47-Big_Sky.jpg",
+"latitude": "34.2887",
+"longitude" : "-118.7627"
+},
+{
+"name" : "Ventura County Station 50",
+"imageURL" : "http://vcfd.org/images/Stations/S-50-Camarillo.jpg",
+"latitude": "34.2119",
+"longitude" : "-119.0703"
+},
+{
+"name" : "Ventura County Station 51",
+"imageUrl" : "http://vcfd.org/images/Stations/S-51-El_Rio.jpg",
+"latitude": "34.2449",
+"longitude" : "-119.1645"
+},
+{
+"name" : "Ventura County Station 52",
+"imageUrl" : "http://vcfd.org/images/Stations/S-52-Mission_Oaks.jpg",
+"latitude": "34.2240",
+"longitude" : "-118.9949"
+},
+{
+"name" : "Ventura County Station 53",
+"imageUrl" : "http://vcfd.org/images/Stations/S-53-Port_Hueneme.jpg",
+"latitude": "34.1505",
+"longitude" : "-119.1982"
+
+},
+{
+"name" : "Ventura County Station 54",
+"imageUrl" : "http://vcfd.org/images/Stations/S-54-Camarillo.jpg",
+"latitude": "34.2218",
+"longitude" : "-119.0408"
+},
+{
+"name" : "Ventura County Station 55",
+"imageUrl" : "http://vcfd.org/images/Stations/S-55-Las_Posas.jpg",
+"latitude": "34.2448",
+"longitude" : "-119.0687"
+},
+{
+"name" : "Ventura County Station 56",
+"imageUrl" : "http://vcfd.org/images/Stations/Stations2/Sta-56-bike.jpg",
+"latitude": "34.0507",
+"longitude" : "-118.9549"
+},
+{
+"name": "Ventura County Station 57",
+"imageUrl" : "http://vcfd.org/images/Stations/S-57-Somis.jpg",
+"latitude": "34.2565",
+"longitude" : "-118.9959"
+}
+]
+
+}
+
