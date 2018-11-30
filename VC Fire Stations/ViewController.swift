@@ -49,7 +49,7 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        // yeah
+        // yeah git can be annoying
         startLocationServices()
     }
     
