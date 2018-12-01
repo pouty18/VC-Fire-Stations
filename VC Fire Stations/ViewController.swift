@@ -83,6 +83,8 @@ class ViewController: UIViewController {
     @IBAction func centerMapOnUser(_ sender: Any) {
         let authorizationStatus = CLLocationManager.authorizationStatus()
         if authorizationStatus != .authorizedWhenInUse {
+            print("not authorized")
+            startLocationServices()
             // user hasn't authorized access to the locationManager
             return
         }
@@ -90,6 +92,7 @@ class ViewController: UIViewController {
         // Do not start services that aren't available
         if !CLLocationManager.locationServicesEnabled() {
             // Location services is not available
+            print("location services not enabled")
             return
         }
         
@@ -150,7 +153,10 @@ extension ViewController: MKMapViewDelegate {
             view = MKMarkerAnnotationView(annotation: annotation, reuseIdentifier: identifier)
             view.canShowCallout = true
             view.calloutOffset = CGPoint(x: -5, y: 5)
-            view.rightCalloutAccessoryView = UIButton(type: .detailDisclosure)
+            let button = UIButton(type: .system)
+            button.setTitle("Go", for: .normal)
+            view.rightCalloutAccessoryView = button
+            
         }
         return view
     }
